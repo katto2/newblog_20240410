@@ -1,0 +1,12 @@
+---
+title: Plain text and announcement
+author: Sung Won Kang
+date: '2024-04-10'
+slug: plain-text-and-announcement
+categories: []
+tags: []
+---
+
+This is the first plain text content created by Sung Won Kang
+
+한글로 쓴 강성원의 첫 post
